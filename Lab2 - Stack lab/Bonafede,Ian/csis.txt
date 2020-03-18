@@ -1,0 +1,70 @@
+Problem 1: 8 + 4 * 2 - 6
+Postfix: 
+842*+6-
+Evaluation: 
+10
+
+
+Problem 2: 7 * 2 - 4 * 3 + 2 * 5
+Postfix: 
+72*43*-25*+
+Evaluation: 
+12
+
+
+Problem 3: 2 * 3 * 4 - 8 + 9 / 3 / 3
+Postfix: 
+23*4*8-93/3/+
+Evaluation: 
+17
+
+
+Problem 4: 5 + 7 * 4 - 6
+Postfix: 
+574*+6-
+Evaluation: 
+27
+
+
+Problem 5: 4 * ( 3 + 2 * 4 ) - 7
+Postfix: 
+4324*+*7-
+Evaluation: 
+37
+
+
+Problem 6: ( 5 + 7 ) / ( 9 - 5 )
+Postfix: 
+57+95-/
+Evaluation: 
+3
+
+
+Problem 7: 3 * ( 5 * ( 5 - 2 ) ) - 9
+Postfix: 
+3552-**9-
+Evaluation: 
+36
+
+
+Problem 8: ( ( 5 * ( 4 + 2 ) - ( 8 + 8 ) / 2 ) - 9 ) ^ 3
+Postfix: 
+542+*88+2/-9-3^
+Evaluation: 
+2197
+
+
+Problem 9: ( ( 5 + 5 * ( 6 - 2 ) + 4 ^ 2 ) * 8 )
+Postfix: 
+5562-*+42^+8*
+Evaluation: 
+328
+
+
+Problem 10: ( ( ( 3 ^ 4 ) ) )
+Postfix: 
+34^
+Evaluation: 
+81
+
+

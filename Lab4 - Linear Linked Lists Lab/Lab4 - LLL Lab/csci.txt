@@ -1,0 +1,99 @@
+First Name	Last Name	Gender	Tenure	Rate	Salary	
+
+Howard		Starr		M	8	H	30.0
+Joan		Jacobus		F	9	W	925.0
+David		Renn		M	3	H	4.75
+Albert		Cahana		M	3	H	18.75
+Douglas		Sheer		M	5	W	250.0
+Shari		Buchman		F	9	W	325.0
+Sara		Jones		F	1	H	7.5
+Ricky		Mofsen		M	6	H	12.5
+Jean		Brennan		F	6	H	5.4
+Deborah		Starr		F	3	W	1000.0
+Jamie		Michaels		F	8	W	150.0
+
+
+Number of employees: 11
+
+All women on payroll:
+
+Joan
+Shari
+Sara
+Jean
+Deborah
+Jamie
+
+
+Weekly employees who make more than 35,000 and who have been with the company for atleast 5 years: 
+
+Joan Jacobus
+
+
+Raises: 
+
+David	Renn	5.5
+Douglas	Sheer	300.0
+Shari	Buchman	375.0
+Sara	Jones	8.25
+Jean	Brennan	6.15
+Jamie	Michaels	200.0
+
+
+Names and salaries in alphabetical order by last name: 
+
+
+
+Brennan Jean 5.4
+Buchman Shari 325.0
+Cahana Albert 18.75
+Jacobus Joan 925.0
+Jones Sara 7.5
+Michaels Jamie 150.0
+Mofsen Ricky 12.5
+Renn David 4.75
+Sheer Douglas 250.0
+Starr Deborah 1000.0
+Starr Howard 30.0
+
+
+Added Employees to the list
+Names and salaries in alphabetical order by last name: 
+
+
+
+Allen Barry 6.75
+Brennan Jean 5.4
+Buchman Shari 325.0
+Cahana Albert 18.75
+Jacobus Joan 925.0
+Jones Sara 7.5
+Michaels Jamie 150.0
+Mofsen Ricky 12.5
+Pinella Nina 425.0
+Renn David 4.75
+Sheer Douglas 250.0
+Starr Deborah 1000.0
+Starr Howard 30.0
+Wagger Lane 725.0
+
+
+Added Employees to the list
+Names and salaries in alphabetical order by last name: 
+
+
+
+Allen Barry 6.75
+Buchman Shari 325.0
+Cahana Albert 18.75
+Jacobus Joan 925.0
+Jones Sara 7.5
+Michaels Jamie 150.0
+Pinella Nina 425.0
+Renn David 4.75
+Sheer Douglas 250.0
+Starr Deborah 1000.0
+Starr Howard 30.0
+Wagger Lane 725.0
+
+
